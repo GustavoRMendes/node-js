@@ -1,0 +1,11 @@
+Introdução 
+
+- O que é Node JS
+    é um ambiente de execução de código JavaScript fora do navegador
+    
+- Event Loop
+    é um conceito fundamental no node que permite que o js seja executado de forma não bloqueante e eficiente.
+    
+- Trabalhar com Arquivos
+- Streams e Buffers
+- Como criar aplicações CLI
